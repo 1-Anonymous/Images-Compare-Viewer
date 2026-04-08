@@ -15,7 +15,7 @@
 
 快速开始
 1. 克隆仓库：
-   git clone <repo-url>
+   git clone https://github.com/1-Anonymous/Images-Compare-Viewer.git
 2. 进入项目目录并创建虚拟环境：
    python -m venv .venv
    source .venv/bin/activate
