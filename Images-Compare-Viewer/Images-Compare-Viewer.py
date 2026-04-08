@@ -19,8 +19,8 @@ def get_image_list(dir_path):
 
 def main():
     # 替换为你实际的目录路径
-    DIR1 = "/home/b502/Projects/SparseDrive-SD/vis_0403-12_29baseline-long/combine"  # 上面的图片目录 (baseline)
-    DIR2 = "/home/b502/Projects/sp/newest/SparseDrive-SD-feature-sdmap-crossatt0/vis_0330_original_map0-crossatt-ema06-N20_0len-progress_def-s1map33/combine"   # 下面的图片目录 (0330)
+    DIR1 = "/home/XXX/XXX/vis_XXX/XXX1"  # 上面的图片目录 (baseline)
+    DIR2 = "/home/XXX/XXX/vis_XXX/XXX2"   # 下面的图片目录 (new)
 
     # 获取倒数第二个文件夹名称中最后一个下划线之后的内容
     def get_folder_suffix(dir_path):
